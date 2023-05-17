@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function () {
+export default function About() {
   return (
     <main className="container mx-auto">
       <h1 className="mt-10 text-2xl font-bold">About page</h1>
